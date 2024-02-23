@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-My name's Bao. I am a senior developer with 5 years of passion in creating experience-driven products. I am proficient in Node, React, NextJs and TypeScript development.
+My name is Bao. I am a senior developer with 6 years of passion in creating experience-driven products. I mostly work with NodeJs, ReactJs, Angular and TypeScript.
 
-I concerned in new technologies about media streaming, webrtc and peer to peer.
+Thanks for visiting my Github! 😄
 
-Thanks for visiting my Github :)
 <!--
 **baohoangstan/baohoangstan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
